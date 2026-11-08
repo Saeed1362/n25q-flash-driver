@@ -252,3 +252,7 @@ A passing test describes the tested hardware and software combination. Record th
 | SPI communication is unreliable | Inspect mode-0 timing, GPIO mapping, delay implementation, and signal integrity |
 | Tests take a long time | Distinguish internal erase time from exhaustive readback; use bulk spot checks for routine tests |
 
+## Test Results on STM32F750NHx. The same results are expected on other MCUs and SoCs with a correctly implemented platform port.
+<img width="486" height="288" alt="image" src="https://github.com/user-attachments/assets/36f93330-456a-4f57-a84b-6b6645e5f934" />
+
+
